@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|c:\\users\\rahul\\source\\repos\\practicecoding\\practicecoding\\string manipulation\\containsduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|solutionrelative:practicecoding\\string manipulation\\containsduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|c:\\users\\rahul\\source\\repos\\practicecoding\\practicecoding\\string manipulation\\findallsubstringsoflengthk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|solutionrelative:practicecoding\\string manipulation\\findallsubstringsoflengthk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|c:\\users\\rahul\\source\\repos\\practicecoding\\practicecoding\\string manipulation\\findduplicatecharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|solutionrelative:practicecoding\\string manipulation\\findduplicatecharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|c:\\users\\rahul\\source\\repos\\practicecoding\\practicecoding\\string manipulation\\firstnonrepeatedcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|solutionrelative:practicecoding\\string manipulation\\firstnonrepeatedcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|c:\\users\\rahul\\source\\repos\\practicecoding\\practicecoding\\string manipulation\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|solutionrelative:practicecoding\\string manipulation\\longestcommonprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|c:\\users\\rahul\\source\\repos\\practicecoding\\practicecoding\\string manipulation\\longestpalidromic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|solutionrelative:practicecoding\\string manipulation\\longestpalidromic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|c:\\users\\rahul\\source\\repos\\practicecoding\\practicecoding\\string manipulation\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|solutionrelative:practicecoding\\string manipulation\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|c:\\users\\rahul\\source\\repos\\practicecoding\\practicecoding\\string manipulation\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|solutionrelative:practicecoding\\string manipulation\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|c:\\users\\rahul\\source\\repos\\practicecoding\\practicecoding\\string manipulation\\reversewordsofstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|solutionrelative:practicecoding\\string manipulation\\reversewordsofstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|c:\\users\\rahul\\source\\repos\\practicecoding\\practicecoding\\string manipulation\\stringrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|solutionrelative:practicecoding\\string manipulation\\stringrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|c:\\users\\rahul\\source\\repos\\practicecoding\\practicecoding\\string manipulation\\vowelconsonentcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|solutionrelative:practicecoding\\string manipulation\\vowelconsonentcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|c:\\users\\rahul\\source\\repos\\practicecoding\\practicecoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|solutionrelative:practicecoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|c:\\users\\rahul\\source\\repos\\practicecoding\\practicecoding\\string manipulation\\anagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375652CA-DF36-4F30-8DF1-42255C114696}|PracticeCoding\\PracticeCoding.csproj|solutionrelative:practicecoding\\string manipulation\\anagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContainsDuplicates.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\ContainsDuplicates.cs",
+              "RelativeDocumentMoniker": "PracticeCoding\\String Manipulation\\ContainsDuplicates.cs",
+              "ToolTip": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\ContainsDuplicates.cs",
+              "RelativeToolTip": "PracticeCoding\\String Manipulation\\ContainsDuplicates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T20:17:56.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindAllSubstringsOfLengthK.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\FindAllSubstringsOfLengthK.cs",
+              "RelativeDocumentMoniker": "PracticeCoding\\String Manipulation\\FindAllSubstringsOfLengthK.cs",
+              "ToolTip": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\FindAllSubstringsOfLengthK.cs",
+              "RelativeToolTip": "PracticeCoding\\String Manipulation\\FindAllSubstringsOfLengthK.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:55:15.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LongestCommonPrefix.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\LongestCommonPrefix.cs",
+              "RelativeDocumentMoniker": "PracticeCoding\\String Manipulation\\LongestCommonPrefix.cs",
+              "ToolTip": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\LongestCommonPrefix.cs",
+              "RelativeToolTip": "PracticeCoding\\String Manipulation\\LongestCommonPrefix.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:34:57.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReverseWordsOfString.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\ReverseWordsOfString.cs",
+              "RelativeDocumentMoniker": "PracticeCoding\\String Manipulation\\ReverseWordsOfString.cs",
+              "ToolTip": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\ReverseWordsOfString.cs",
+              "RelativeToolTip": "PracticeCoding\\String Manipulation\\ReverseWordsOfString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:14:14.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LongestPalidromic.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\LongestPalidromic.cs",
+              "RelativeDocumentMoniker": "PracticeCoding\\String Manipulation\\LongestPalidromic.cs",
+              "ToolTip": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\LongestPalidromic.cs",
+              "RelativeToolTip": "PracticeCoding\\String Manipulation\\LongestPalidromic.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:00:47.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StringRotation.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\StringRotation.cs",
+              "RelativeDocumentMoniker": "PracticeCoding\\String Manipulation\\StringRotation.cs",
+              "ToolTip": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\StringRotation.cs",
+              "RelativeToolTip": "PracticeCoding\\String Manipulation\\StringRotation.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:53:17.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FirstNonRepeatedCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\FirstNonRepeatedCharacter.cs",
+              "RelativeDocumentMoniker": "PracticeCoding\\String Manipulation\\FirstNonRepeatedCharacter.cs",
+              "ToolTip": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\FirstNonRepeatedCharacter.cs",
+              "RelativeToolTip": "PracticeCoding\\String Manipulation\\FirstNonRepeatedCharacter.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAApwA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:34:20.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Anagrams.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\Anagrams.cs",
+              "RelativeDocumentMoniker": "PracticeCoding\\String Manipulation\\Anagrams.cs",
+              "ToolTip": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\Anagrams.cs",
+              "RelativeToolTip": "PracticeCoding\\String Manipulation\\Anagrams.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:23:22.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindDuplicateCharacters.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\FindDuplicateCharacters.cs",
+              "RelativeDocumentMoniker": "PracticeCoding\\String Manipulation\\FindDuplicateCharacters.cs",
+              "ToolTip": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\FindDuplicateCharacters.cs",
+              "RelativeToolTip": "PracticeCoding\\String Manipulation\\FindDuplicateCharacters.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAlwCUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:35:26.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Palindrome.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\Palindrome.cs",
+              "RelativeDocumentMoniker": "PracticeCoding\\String Manipulation\\Palindrome.cs",
+              "ToolTip": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\Palindrome.cs",
+              "RelativeToolTip": "PracticeCoding\\String Manipulation\\Palindrome.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAhwA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:47:33.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VowelConsonentCount.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\VowelConsonentCount.cs",
+              "RelativeDocumentMoniker": "PracticeCoding\\String Manipulation\\VowelConsonentCount.cs",
+              "ToolTip": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\VowelConsonentCount.cs",
+              "RelativeToolTip": "PracticeCoding\\String Manipulation\\VowelConsonentCount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:22:36.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReverseString.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\ReverseString.cs",
+              "RelativeDocumentMoniker": "PracticeCoding\\String Manipulation\\ReverseString.cs",
+              "ToolTip": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\String Manipulation\\ReverseString.cs",
+              "RelativeToolTip": "PracticeCoding\\String Manipulation\\ReverseString.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAhwBgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:57:14.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeCoding\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul\\source\\repos\\PracticeCoding\\PracticeCoding\\Program.cs",
+              "RelativeToolTip": "PracticeCoding\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:12:28.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

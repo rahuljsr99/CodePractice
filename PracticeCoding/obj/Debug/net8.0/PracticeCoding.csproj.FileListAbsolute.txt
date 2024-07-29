@@ -1,0 +1,14 @@
+C:\Users\Rahul\source\repos\PracticeCoding\PracticeCoding\bin\Debug\net8.0\PracticeCoding.exe
+C:\Users\Rahul\source\repos\PracticeCoding\PracticeCoding\bin\Debug\net8.0\PracticeCoding.deps.json
+C:\Users\Rahul\source\repos\PracticeCoding\PracticeCoding\bin\Debug\net8.0\PracticeCoding.runtimeconfig.json
+C:\Users\Rahul\source\repos\PracticeCoding\PracticeCoding\bin\Debug\net8.0\PracticeCoding.dll
+C:\Users\Rahul\source\repos\PracticeCoding\PracticeCoding\bin\Debug\net8.0\PracticeCoding.pdb
+C:\Users\Rahul\source\repos\PracticeCoding\PracticeCoding\obj\Debug\net8.0\PracticeCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul\source\repos\PracticeCoding\PracticeCoding\obj\Debug\net8.0\PracticeCoding.AssemblyInfoInputs.cache
+C:\Users\Rahul\source\repos\PracticeCoding\PracticeCoding\obj\Debug\net8.0\PracticeCoding.AssemblyInfo.cs
+C:\Users\Rahul\source\repos\PracticeCoding\PracticeCoding\obj\Debug\net8.0\PracticeCoding.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\source\repos\PracticeCoding\PracticeCoding\obj\Debug\net8.0\PracticeCoding.dll
+C:\Users\Rahul\source\repos\PracticeCoding\PracticeCoding\obj\Debug\net8.0\refint\PracticeCoding.dll
+C:\Users\Rahul\source\repos\PracticeCoding\PracticeCoding\obj\Debug\net8.0\PracticeCoding.pdb
+C:\Users\Rahul\source\repos\PracticeCoding\PracticeCoding\obj\Debug\net8.0\PracticeCoding.genruntimeconfig.cache
+C:\Users\Rahul\source\repos\PracticeCoding\PracticeCoding\obj\Debug\net8.0\ref\PracticeCoding.dll
